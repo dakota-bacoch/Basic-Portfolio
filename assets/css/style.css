@@ -1,0 +1,47 @@
+header {
+    height: 80px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.flex-container {
+    width:970px;
+    margin: 0 auto;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+
+.flex-container ul a {
+    display: flex;
+    color: #b0a4a8;
+    text-decoration: none;
+}
+
+li {
+    padding: 10px;
+    
+}
+
+.flex-container ul {
+    display: flex;
+}
+
+.bg {
+    background-image: url("../images/concrete_seamless.png");
+    height: 100%;
+   
+}
+
+body {
+    height: 1000px;
+}
+
+.flex-container h1 a {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    background: #4aaaa5;
+    background-size: 80px 80px;
+    
+}
