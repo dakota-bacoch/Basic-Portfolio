@@ -178,8 +178,10 @@ input {
     flex-direction: column;
     flex-wrap: wrap;
     height: 750px;
+    width: 60%;
 }
 
 footer {
     position: fixed;
+    bottom:0;
 }
