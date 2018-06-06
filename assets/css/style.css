@@ -153,3 +153,33 @@ input {
 
     
 }
+
+.gallery-body {
+    background-color: white;
+    width: 960px;
+    margin:0 auto;
+    border: 1px solid #cccccc;
+    height: 800px;
+}
+
+.gallery-body h1 {
+    color: #4aaaa5;
+    display: flex;
+    margin:30px;
+    font-weight: bold;
+    font-size: 140%;
+    border-bottom: 3px solid #cccccc;
+    padding-bottom: 30px;
+
+}
+
+.flex-image-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 750px;
+}
+
+footer {
+    position: fixed;
+}
